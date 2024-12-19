@@ -1,5 +1,5 @@
 {
-  "name": "french_pe",
+  "name": "french_assistent_ai",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -14,8 +14,10 @@
   },
   "dependencies": {
     "@popperjs/core": "^2.11.8",
+    "axios": "^1.7.9",
     "bootstrap": "^5.3.3",
     "pinia": "^2.1.7",
+    "uuid": "^11.0.3",
     "vue": "^3.4.29",
     "vue-router": "^4.3.3"
   },
