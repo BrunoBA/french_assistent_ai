@@ -43,3 +43,11 @@ This will be executed
 
   ➜  press h + enter to show help
 ```
+
+## Demo Images
+
+The project you should write a text in french to be corrected
+![Project](demo_1.png)
+![After insert your text](demo_2.png)
+After insert the text and click in _"C'est fini"_ you will see the correction below.
+![Alt text](demo_3.png)
